@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\bin\Debug\SimpleWebServer.exe.config
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\bin\Debug\SimpleWebServer.exe
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\bin\Debug\SimpleWebServer.pdb
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\obj\x86\Debug\SimpleWebServer.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\obj\x86\Debug\SimpleWebServer.Form1.resources
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\obj\x86\Debug\SimpleWebServer.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\obj\x86\Debug\SimpleWebServer.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\obj\x86\Debug\SimpleWebServer.exe
+C:\Users\ADMIN\Downloads\SimpleWebServer-src\obj\x86\Debug\SimpleWebServer.pdb
